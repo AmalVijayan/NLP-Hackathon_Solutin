@@ -1,4 +1,4 @@
-# NLP-Hackathon_Solutin
+# NLP-Hackathon_Solution
 Solution for Predict The News Category Hackathon by MachineHack
 
 
